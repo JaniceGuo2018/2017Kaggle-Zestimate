@@ -1,12 +1,16 @@
 # Zestimate-Kaggle
-* ## Data visualization and analysis
-  * Python pandas  
-  * Python seaborn
+* ## Data analysis and visualization
+  * Analysis of correlation 
+  * Heatmap
 * ## Data preprocessing
-  * fill in missing values within the threshold
+  * Fill in missing values within the threshold
+  * Drop less important features
+  * Normalization
 * ## Models
-  * xgboost
+  * Xgboost
   * Random forest
+  * Boosting 
+  * Bagging
 * ## Cross Validation
 * ## Model Ensemble 
   
